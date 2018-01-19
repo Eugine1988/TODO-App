@@ -1,0 +1,76 @@
+[
+    {
+        "items": [
+            {
+                "name": "Categories"
+            },
+            {
+                "name": "General"
+            },
+            {
+                "name": "To Buy"
+            },
+            {
+                "name": "Clean Up"
+            },
+            {
+                "name": "Coding"
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "name": "Do Car Service"
+            },
+            {
+                "name": "Sort Out Instruments"
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "name": "[Done] Computer Chair"
+            },
+            {
+                "name": "Tooth Brush"
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "name": "Sort Out Clothes"
+            },
+            {
+                "name": "Vacuum Floor"
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "name": "[Done] TODO App"
+            },
+            {
+                "name": "Create New GitHub Account"
+            },
+            {
+                "name": "Put Up TODO App on GitHub"
+            },
+            {
+                "name": "Put Up C++ OpenGL Proj. on GitHub"
+            },
+            {
+                "name": "TimeManager App"
+            },
+            {
+                "name": "Make AI learn checkers to find optimal strategy"
+            },
+            {
+                "name": "Make robot that learns to walk in a 2d or 3d environment"
+            }
+        ]
+    }
+]
